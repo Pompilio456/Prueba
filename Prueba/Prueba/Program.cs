@@ -12,9 +12,6 @@ namespace Prueba
         {
             Console.WriteLine("Hola mundo");
             //Aqui vamamos a tener nuestro main
-
-            //Hola este texto solo se puede ver en la nieta de master
-
         }
     }
 }

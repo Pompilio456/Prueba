@@ -20,8 +20,8 @@ namespace Prueba
             this.piel = piel;
 
         }
-
-        public string Datos() => "Este animal es un " + nombre + " vive en " + habitad + " y su piel es "+piel;
+        //esto esta en la nieta
+        public string Datos() => "Este animal es un " + nombre + " vive en " + habitad + " y su piel es "+piel+" y no ladra";
 
 
     }
