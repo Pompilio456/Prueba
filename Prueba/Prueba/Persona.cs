@@ -16,7 +16,7 @@ namespace Prueba
             this.nombre = nombre;
             this.ciudad = ciudad;
         }
-
+        // esto solo lo puede ver hija de master
         public string Datos() => "La persona se llama " + nombre + " y vive en " + ciudad+" y not iene hijos";
 
 
