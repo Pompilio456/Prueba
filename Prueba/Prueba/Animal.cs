@@ -21,7 +21,7 @@ namespace Prueba
 
         }
 
-        public string Datos() => "Este animal es un " + nombre + " vive en " + habitad + " y su piel es ";
+        public string Datos() => "Este animal es un " + nombre + " vive en " + habitad + " y su piel es "+piel;
 
 
     }
