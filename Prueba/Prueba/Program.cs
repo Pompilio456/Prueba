@@ -12,6 +12,8 @@ namespace Prueba
         {
             Console.WriteLine("Hola mundo");
             //Aqui vamamos a tener nuestro main
+
+
         }
     }
 }
