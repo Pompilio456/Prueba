@@ -10,6 +10,8 @@ namespace Prueba
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hola mundo");
+            //Aqui vamamos a tener nuestro main
         }
     }
 }
