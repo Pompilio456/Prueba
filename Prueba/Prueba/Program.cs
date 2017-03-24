@@ -13,7 +13,8 @@ namespace Prueba
             Console.WriteLine("Hola mundo");
             //Aqui vamamos a tener nuestro main
 
-
+            Persona compador = new Persona("yilber","medellin");
+           
         }
     }
 }
